@@ -45,7 +45,7 @@ For every project, I'll include its purpose, technologies, setup instructions, s
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/rihan-ahamed-994391328/)
+- LinkedIn:https://www.linkedin.com/in/rihan-ahamed-994391328/
 - GitHub: [My Repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
 ---
